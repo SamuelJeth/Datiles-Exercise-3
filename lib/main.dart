@@ -1,3 +1,5 @@
+// Samuel Jeth Datiles, BSCS 3A AI
+
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
